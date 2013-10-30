@@ -1,0 +1,35 @@
+{
+	"sections": [
+		{
+			"id" : 1,
+			"name" : "Lekplatser",
+			"content" : "data/lekplatser.html"
+		},
+		{
+			"id" : 2,
+			"name" : "Badplatser",
+			"content" : "data/badplatser.html"
+		},
+		{
+			"id" : 3,
+			"name" : "Idrott",
+			"content" : "data/idrott.html"
+		},
+		{
+			"id" : 4,
+			"name" : "Motion",
+			"content" : "data/motion.html"
+		},
+		{
+			"id" : 5,
+			"name" : "Parker",
+			"content" : "data/park.html"
+		},
+		{
+			"id" : 6,
+			"name" : "Torg",
+			"content" : "data/torg.html"
+		}
+	]
+}
+
